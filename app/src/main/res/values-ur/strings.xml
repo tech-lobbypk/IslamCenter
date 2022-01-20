@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اسلام سنٹر</string>
+    <string name="surah_naas">سورۂ الناس</string>
+    <string name="surah_kafiron">سورۂ الکافرون</string>
+    <string name="surah_ikhlas">سورۂ الاخلاص</string>
+    <string name="surah_fatiha">سورۂ الفاتحہ</string>
+    <string name="surah_falaq">سورۂ الفلق</string>
+    <string name="pickup_string">پڑھنا جاری رکھنے کیلئے یہاں کلک کریں</string>
+    <string name="nav_header_title">اسلام سنٹر</string>
+    <string name="Select_Language">زبان کا انتخاب کیجئے</string>
+    <string name="Done">تبدیل کریں</string>
+    <string name="arabic_only">عربی متن</string>
+    <string name="urdu_only">اردو ترجمہ</string>
+    <string name="both">متن مع ترجمہ</string>
+    <string name="never">کبھی نہیں</string>
+    <string name="one_hour">ہر گھنٹے بعد</string>
+    <string name="two_hour">ہر دو گھنٹے بعد</string>
+    <string name="Select_Reminder_Setting">ذکر یادہانی</string>
+    <string name="bookmarks">محفوظ شدہ(Bookmarks)</string>
+    <string name="copy">کاپی کریں</string>
+    <string name="share">شیٔر کریں</string>
+    <string name="bookmark_bs">محفوظ کریں (Bookmark)</string>
+</resources>

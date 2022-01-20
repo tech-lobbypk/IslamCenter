@@ -1,0 +1,37 @@
+[
+  {
+    "ayat_arabic": "سُبْحَانَ اللهِ",
+    "trans_eng": "Glory be to Allah",
+    "ref": "-"
+  },
+  {
+    "ayat_arabic": "اَلۡحَمۡدُ لِلّٰهِ",
+    "trans_eng": "Praise be to Allah",
+    "ref": "-"
+  },
+  {
+    "ayat_arabic": "اللهُ أَكْبَر",
+    "trans_eng": "Allah is the Greatest",
+    "ref": "-"
+  },
+  {
+    "ayat_arabic": "أَسْتَغْفِرُ اللَّه",
+    "trans_eng": "I seek Your forgiveness, Allah ",
+    "ref": "-"
+  },
+  {
+    "ayat_arabic": "سُبْحـانَ اللهِ وَبِحَمْـدِهِ",
+    "trans_eng": "How perfect Allah is and I praise Him.",
+    "ref": "(Tasbeeh)"
+  },
+  {
+    "ayat_arabic": "اللَّهُمَّ صَلِّ وَ سَلِّمْ عَلَى نَبِيِّنَا مُحَمَّدًٍَُ",
+    "trans_eng": "O Allah, send prayers and blessings upon our prophet Muhammad.",
+    "ref": "(Darood)"
+  },
+  {
+    "ayat_arabic": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
+    "trans_eng": "I seek Your forgiveness, Allah, and repent unto You.",
+    "ref": "(Prayer)"
+  }
+]

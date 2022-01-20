@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioGroup
+        android:id="@+id/rg_reminder"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+
+        >
+
+        <com.google.android.material.radiobutton.MaterialRadioButton
+            android:id="@+id/btn_radio_never"
+            android:textDirection="locale"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/never"
+            android:textSize="20sp"/>
+
+        <com.google.android.material.radiobutton.MaterialRadioButton
+            android:id="@+id/btn_radio_1hour"
+            android:textDirection="locale"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/one_hour"
+            android:textSize="20sp"/>
+
+        <com.google.android.material.radiobutton.MaterialRadioButton
+            android:id="@+id/btn_radio_2hour"
+            android:textDirection="locale"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/two_hour"
+            android:textSize="20sp"/>
+
+
+
+    </RadioGroup>
+</LinearLayout>

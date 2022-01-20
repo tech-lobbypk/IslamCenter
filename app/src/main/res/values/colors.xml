@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#546e7a</color>
+    <color name="colorPrimaryDark">#29434e</color>
+    <color name="colorSecondary">#9ea7aa</color>
+    <color name="red_dark">@android:color/holo_red_dark</color>
+    <color name="green_dark">#4b2c20</color>
+    <color name="blue_dark">#000063</color>
+    <color name="white">#ffffff</color>
+    <color name="trans_color">#29434e</color>
+    <color name="url_blue">#0277bd</color>
+</resources>

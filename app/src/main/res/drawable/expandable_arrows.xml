@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_expanded="false">
+        <layer-list>
+            <item
+                android:left="2dp"
+                android:right="2dp"
+                android:top="0dp"
+                android:drawable="@drawable/expand_more_24px_black">
+            </item>
+        </layer-list>
+    </item>
+
+    <item android:state_expanded="true">
+        <layer-list>
+            <item
+                android:left="2dp"
+                android:right="2dp"
+                android:top="0dp"
+                android:drawable="@drawable/expand_less_24px_black"
+                >
+            </item>
+        </layer-list>
+    </item>
+</selector>

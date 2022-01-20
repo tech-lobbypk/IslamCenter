@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioGroup
+        android:id="@+id/rg_language"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+
+         >
+
+    <com.google.android.material.radiobutton.MaterialRadioButton
+        android:id="@+id/btn_radio_eng"
+        android:textDirection="locale"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/English"
+        android:textSize="25sp"/>
+
+    <com.google.android.material.radiobutton.MaterialRadioButton
+        android:id="@+id/btn_radio_urdu"
+        android:textDirection="locale"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/Urdu"
+        android:textSize="35sp"/>
+    </RadioGroup>
+</LinearLayout>

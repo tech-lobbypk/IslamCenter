@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Islam Center</string>
+    <string name="upcomingPrayer" translatable="false">Next Prayer</string>
+    <string name="nav_header_title">Islam Center</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="surah_fatiha">Surah Fatiha</string>
+    <string name="surah_kafiron">Surah Kafiron</string>
+    <string name="surah_ikhlas">Surah Ikhlas</string>
+    <string name="surah_falaq">Surah Falaq</string>
+    <string name="surah_naas">Surah Naas</string>
+
+    <string name="last_main_reading_index" translatable="false">last_main_reading_index</string>
+    <string name="last_sub_reading_index" translatable="false">last_sub_reading_index</string>
+    <string name="pickup_string"><u>Click here to Resume Reading</u></string>
+    <string name="ReadingToDisplay_index" translatable="false">ReadingToDisplay_index</string>
+    <string name="Sub_ReadingToDisplay" translatable="false">Sub_ReadingToDisplay</string>
+    <string name="bookmark_sp" translatable="false">Bookmark_SP</string>
+    <string name="bookmarked_ayat_count" translatable="false">bookmarked_ayat_count</string>
+    <string name="bookmarked_ayat" translatable="false">bookmarked_ayat</string>
+    <string name="bookmarked_ayat_index" translatable="false">bookmarked_ayat_index</string>
+    <string name="bm_last_main_reading_index" translatable="false">bm_last_main_reading_index</string>
+    <string name="bm_last_sub_reading_index" translatable="false">bm_last_sub_reading_index</string>
+    <string name="reminders" translatable="false">Reminders</string>
+
+    <string name="change_language" translatable="false">Lauguages</string>
+
+    <string name="preference_file_key" translatable="false">preferences</string>
+    <string name="navigation_drawer_open" translatable="false">Drawer Open</string>
+    <string name="navigation_drawer_close" translatable="false">Drawer Close</string>
+
+    <string name="Select_Language">Preferred language</string>
+    <string name="Done">Apply changes</string>
+    <string name="language_mode">language_mode</string>
+    <string name="arabic_font">arabic_font</string>
+    <string name="translation_font">translation_font</string>
+
+    <string name="English" translatable="false">English</string>
+    <string name="Urdu" translatable="false">اردو</string>
+    <string name="arabic_only">Arabic only</string>
+    <string name="urdu_only">Eng Only</string>
+    <string name="both">Both</string>
+    <string name="quran">Quran</string>
+    <string name="tasbeeh">Praising Allah</string>
+    <string name="darood">Darood-O-Salam</string>
+    <string name="istaghfar">Repentance</string>
+    <string name="morningAzkar">Morning Azkar</string>
+    <string name="EveningAzkar">Evening Azkar</string>
+    <string name="prayers">Daily Prayers</string>
+    <string name="bm_last_scroll">bm_last_scroll</string>
+    <string name="last_scroll">last_scroll</string>
+    <string name="openingBookmark">openingBookmark</string>
+    <string name="reminder_setting">0</string>
+    <string name="never">Never</string>
+    <string name="one_hour">Every Hour</string>
+    <string name="two_hour">Every 2 hours</string>
+    <string name="reminder_hour">reminder_hour</string>
+    <string name="channel_name">Zikr_reminder</string>
+    <string name="channel_description">Zikr_reminder</string>
+    <string name="Select_Reminder_Setting">Ziker Reminder</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="bookmark_bs">Bookmark</string>
+</resources>

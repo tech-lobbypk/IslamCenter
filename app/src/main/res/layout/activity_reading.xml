@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="quran.example.reading.ReadingActivity"
+    >
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appBar1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            app:titleTextColor="@color/white" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <RadioGroup
+        android:id="@+id/radio_selection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/radiobox_boundary"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/appBar1"
+        app:layout_constraintBottom_toTopOf="@id/rcvSurah"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:gravity="center"
+        >
+
+        <RadioButton
+            android:id="@+id/radioArabic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/arabic_only"
+            android:checked="false"
+            android:textSize="15sp"
+            android:textColor="@color/blue_dark"
+            android:buttonTint="@color/blue_dark"
+
+            />
+
+        <RadioButton
+            android:id="@+id/radioEng"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/urdu_only"
+            android:textSize="15sp"
+            android:textColor="@color/blue_dark"
+            android:buttonTint="@color/blue_dark"
+            />
+
+        <RadioButton
+            android:id="@+id/radioBoth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/both"
+            android:textSize="15sp"
+            android:checked="true"
+            android:textColor="@color/blue_dark"
+            android:buttonTint="@color/blue_dark"
+            />
+    </RadioGroup>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvSurah"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/white"
+        app:layout_constraintBottom_toTopOf="@id/Clayout_Navigation"
+        app:layout_constraintTop_toBottomOf="@id/radio_selection"></androidx.recyclerview.widget.RecyclerView>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/Clayout_Navigation"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/bottom_primarycolor_rec"
+        android:layoutDirection="ltr"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/btnPrevious"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:elevation="30dp"
+            android:background="@android:color/transparent"
+
+            app:srcCompat="@drawable/previous_24px"
+
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/btnfast_rewind"
+            android:enabled="false"
+            app:layout_constraintHorizontal_chainStyle="packed" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/btnfast_rewind"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3dp"
+            android:elevation="30dp"
+            android:background="@android:color/transparent"
+
+            app:srcCompat="@drawable/fast_rewind_24px"
+
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+
+            app:layout_constraintStart_toEndOf="@id/btnPrevious"
+            app:layout_constraintEnd_toStartOf="@id/btnfast_forward"/>
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/btnfast_forward"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3dp"
+            android:elevation="30dp"
+            android:background="@android:color/transparent"
+            app:srcCompat="@drawable/fast_forward_24px"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toEndOf="@id/btnfast_rewind"
+            app:layout_constraintEnd_toStartOf="@id/btnNext"/>
+
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/btnNext"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/white"
+            android:background="@android:color/transparent"
+            app:srcCompat="@drawable/next_24px"
+            android:elevation="30dp"
+
+            app:layout_constraintStart_toEndOf="@id/btnfast_forward"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

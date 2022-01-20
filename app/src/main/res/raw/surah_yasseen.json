@@ -1,0 +1,422 @@
+[
+  {
+    "ayat_arabic": "بِسۡمِ اللهِ الرَّحۡمٰنِ الرَّحِيۡم",
+    "trans_eng": "In the name of Allah, Most Gracious, Most Merciful.",
+    "trans_urdu": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  {
+    "ayat_arabic": "يٰسٓ  ۚ‏ (﻿۱﻿)  ",
+    "trans_eng": "Ya Sin.",
+    "trans_urdu": "یسۤ"
+  },
+  {
+    "ayat_arabic": "وَالۡقُرۡاٰنِ الۡحَكِيۡمِ ۙ‏ (﻿۲﻿)  ",
+    "trans_eng": "By the Qur'an, full of Wisdom,-",
+    "trans_urdu": "قرآن حکمت والے کی قسم ہے"
+  },
+  {
+    "ayat_arabic": "اِنَّكَ لَمِنَ الۡمُرۡسَلِيۡنَۙ‏ (﻿۳﻿)  ",
+    "trans_eng": "Thou art indeed one of the messengers,",
+    "trans_urdu": "بے شک آپ رسولوں میں سے ہیں"
+  },
+  {
+    "ayat_arabic": "عَلٰى صِرَاطٍ  مُّسۡتَقِيۡمٍؕ‏ (﻿۴﻿)  ",
+    "trans_eng": "On a Straight Way.",
+    "trans_urdu": "سیدھے راستے پر"
+  },
+  {
+    "ayat_arabic": "تَنۡزِيۡلَ الۡعَزِيۡزِ الرَّحِيۡمِ ۙ‏ (﻿۵﻿)  ",
+    "trans_eng": "It is a Revelation sent down by (Him), the Exalted in Might, Most Merciful.",
+    "trans_urdu": "غالب رحمت والے کا اتارا ہوا ہے"
+  },
+  {
+    "ayat_arabic": "لِتُنۡذِرَ قَوۡمًا مَّاۤ اُنۡذِرَ  اٰبَآؤُهُمۡ فَهُمۡ غٰفِلُوۡنَ‏ (﻿۶﻿)  ",
+    "trans_eng": "In order that thou mayest admonish a people, whose fathers had received no admonition, and who therefore remain heedless (of the Signs of Allah).",
+    "trans_urdu": "تاکہ آپ اس قوم کو ڈرائیں جن کے باپ دادا نہیں ڈرائے گئے سو وہ غافل ہیں"
+  },
+  {
+    "ayat_arabic": "لَقَدۡ حَقَّ الۡقَوۡلُ عَلٰٓى اَكۡثَرِهِمۡ فَهُمۡ  لَا يُؤۡمِنُوۡنَ‏ (﻿۷﻿)  ",
+    "trans_eng": "The Word is proved true against the greater part of them: for they do not believe.",
+    "trans_urdu": "ان میں سے اکثر پر خدا کافرمان پورا ہو چکا ہے پس وہ ایمان نہیں لائیں گے"
+  },
+  {
+    "ayat_arabic": "اِنَّا جَعَلۡنَا فِىۡۤ اَعۡنَاقِهِمۡ اَغۡلٰلًا فَهِىَ اِلَى الۡاَ ذۡقَانِ فَهُمۡ مُّقۡمَحُوۡنَ‏ (﻿۸﻿)  ",
+    "trans_eng": "We have put yokes round their necks right up to their chins, so that their heads are forced up (and they cannot see).",
+    "trans_urdu": "بے شک ہم نے ان کی گردنوں میں طوق ڈال دیے ہیں پس وہ ٹھوڑیوں تک ہیں سو وہ اوپر کو سر اٹھائے ہوئے ہیں"
+  },
+  {
+    "ayat_arabic": "وَجَعَلۡنَا مِنۡۢ بَيۡنِ اَيۡدِيۡهِمۡ  سَدًّا وَّمِنۡ خَلۡفِهِمۡ سَدًّا فَاَغۡشَيۡنٰهُمۡ فَهُمۡ لَا يُبۡصِرُوۡنَ‏ (﻿۹﻿)  ",
+    "trans_eng": "And We have put a bar in front of them and a bar behind them, and further, We have covered them up; so that they cannot see.",
+    "trans_urdu": "اور ہم نے ان کے سامنے ایک دیواربنادی ہے اور ان کے پیچھے بھی ایک دیوارہے پھر ہم نے انہیں ڈھانک دیا ہے کہ وہ دیکھ نہیں سکتے"
+  },
+  {
+    "ayat_arabic": "وَسَوَآءٌ عَلَيۡهِمۡ ءَاَنۡذَرۡتَهُمۡ اَمۡ لَمۡ تُنۡذِرۡهُمۡ لَا يُؤۡمِنُوۡنَ‏ (﻿۱۰﻿)  ",
+    "trans_eng": "The same is it to them whether thou admonish them or thou do not admonish them: they will not believe.",
+    "trans_urdu": "اور ان پر برابر ہے کیا آپ ان کو ڈرائیں یا نہ ڈرائیں وہ ایمان نہیں لائیں گے"
+  },
+  {
+    "ayat_arabic": "اِنَّمَا تُنۡذِرُ مَنِ اتَّبَعَ الذِّكۡرَ وَخَشِىَ الرَّحۡمٰنَ بِالۡغَيۡبِۚ  فَبَشِّرۡهُ بِمَغۡفِرَةٍ وَّاَجۡرٍ كَرِيۡمٍ‏ (﻿۱۱﻿)  ",
+    "trans_eng": "Thou canst but admonish such a one as follows the Message and fears the (Lord) Most Gracious, unseen: give such a one, therefore, good tidings, of Forgiveness and a Reward most generous.",
+    "trans_urdu": "بے شک آپ اسی کو ڈرا سکتے ہیں جو نصیحت کی پیروی کرے اوربن دیکھے رحمان سے ڈرے پس خوشخبری دے دو اس کو بخشش اوراجر کی جو عزت والا ہے"
+  },
+  {
+    "ayat_arabic": "اِنَّا نَحۡنُ نُحۡىِ الۡمَوۡتٰى وَنَكۡتُبُ مَا قَدَّمُوۡا وَاٰثَارَهُمۡؕؔ وَكُلَّ شَىۡءٍ اَحۡصَيۡنٰهُ فِىۡۤ اِمَامٍ مُّبِيۡنٍ‏ (﻿۱۲﻿)  ",
+    "trans_eng": "Verily We shall give life to the dead, and We record that which they send before and that which they leave behind, and of all things have We taken account in a clear Book (of evidence).",
+    "trans_urdu": "بے شک ہم ہی مردوں کو زندہ کریں گے اور جو انھوں نے آگے بھیجا اور جو پیچھے چھوڑا اس کو لکھتے ہیں اور ہم نے ہر چیز کو کتاب واضح (لوح محفوظ) میں محفوظ کر رکھا ہے"
+  },
+  {
+    "ayat_arabic": "وَاضۡرِبۡ لَهُمۡ مَّثَلًا اَصۡحٰبَ الۡقَرۡيَةِ  ‌ۘ اِذۡ جَآءَهَا الۡمُرۡسَلُوۡنَۚ‏ (﻿۱۳﻿)  ",
+    "trans_eng": "Set forth to them, by way of a parable, the (story of) the Companions of the City. Behold!, there came messengers to it.",
+    "trans_urdu": "اور ان سے بستی والوں کا حال مشال کے طور پر بیان کر جب کہ ان کے پاس رسول آئے"
+  },
+  {
+    "ayat_arabic": "اِذۡ اَرۡسَلۡنَاۤ اِلَيۡهِمُ اثۡنَيۡنِ فَكَذَّبُوۡهُمَا  فَعَزَّزۡنَا بِثَالِثٍ فَقَالُـوۡۤا اِنَّاۤ اِلَيۡكُمۡ مُّرۡسَلُوۡنَ‏ (﻿۱۴﻿)  ",
+    "trans_eng": "When We (first) sent to them two messengers, they rejected them: But We strengthened them with a third: they said, \"Truly, we have been sent on a mission to you.\"",
+    "trans_urdu": "جب ہم نے ان کے پاس دو کو بھیجا انھوں نے ان کو جھٹلایا پھر ہم نے تیسرے سے مدد کی پھر انہوں نے کہا ہم تمہاری طرف بھیجے گئے ہیں"
+  },
+  {
+    "ayat_arabic": "قَالُوۡا  مَاۤ اَنۡـتُمۡ اِلَّا بَشَرٌ مِّثۡلُـنَا ۙ وَمَاۤ اَنۡزَلَ الرَّحۡمٰنُ مِنۡ شَىۡءٍۙ  اِنۡ اَنۡـتُمۡ اِلَّا تَكۡذِبُوۡنَ‏ (﻿۱۵﻿)  ",
+    "trans_eng": "The (people) said: \"Ye are only men like ourselves; and (Allah) Most Gracious sends no sort of revelation: ye do nothing but lie.\"",
+    "trans_urdu": "انہوں نے کہا تم کچھ اور نہیں ہو مگر ہماری طرح انسان ہو اور رحمان نے کوئی چیز نہیں اتاری تم اور کچھ نہیں ہو مگر جھوٹ بول رہے ہو"
+  },
+  {
+    "ayat_arabic": "قَالُوۡا رَبُّنَا يَعۡلَمُ اِنَّاۤ اِلَيۡكُمۡ  لَمُرۡسَلُوۡنَ‏ (﻿۱۶﻿)  ",
+    "trans_eng": "They said: \"Our Lord doth know that we have been sent on a mission to you:",
+    "trans_urdu": "انہوں نے کہا ہمارا رب جانتا ہے کہ ہم تمہاری طرف بھیجے ہوئے ہیں"
+  },
+  {
+    "ayat_arabic": "وَمَا عَلَيۡنَاۤ اِلَّا الۡبَلٰغُ الۡمُبِيۡنُ‏ (﻿۱۷﻿)  ",
+    "trans_eng": "\"And our duty is only to proclaim the clear Message.\"",
+    "trans_urdu": "اورہمارے ذمے کھلم کھلا پہنچا دینا ہی ہے"
+  },
+  {
+    "ayat_arabic": "قَالُـوۡۤا  اِنَّا تَطَيَّرۡنَا بِكُمۡۚ لَٮِٕنۡ لَّمۡ تَنۡتَهُوۡا لَنَرۡجُمَنَّكُمۡ وَلَيَمَسَّنَّكُمۡ  مِّنَّا عَذَابٌ اَلِيۡمٌ‏ (﻿۱۸﻿)  ",
+    "trans_eng": "The (people) said: \"for us, we augur an evil omen from you: if ye desist not, we will certainly stone you. And a grievous punishment indeed will be inflicted on you by us.\"",
+    "trans_urdu": "انہوں نے کہا ہم نے تو تمہیں منحوس سمجھا ہے اگر تم باز نہ آؤ گے توہم تمہیں سنگسار کر دیں گے اور تمہیں ہمارے ہاتھ سے ضرور دردناک عذاب پہنچے گا"
+  },
+  {
+    "ayat_arabic": "قَالُوۡا طٰۤٮِٕـرُكُمۡ مَّعَكُمۡؕ اَٮِٕنۡ ذُكِّرۡتُمۡ  ؕ بَلۡ اَنۡـتُمۡ قَوۡمٌ مُّسۡرِفُوۡنَ‏ (﻿۱۹﻿)  ",
+    "trans_eng": "They said: \"Your evil omens are with yourselves: (deem ye this an evil omen). If ye are admonished? Nay, but ye are a people transgressing all bounds!\"",
+    "trans_urdu": "انہوں نے کہا تمہاری نحوست تو تمہارے ساتھ ہے کیا اگر تمہیں نصیحت کی جائے (تو اسے نحوست سمجھتے ہو) بلکہ تم حد سے بڑھنے والے ہو"
+  },
+  {
+    "ayat_arabic": "وَجَآءَ مِنۡ اَقۡصَا الۡمَدِيۡنَةِ رَجُلٌ يَّسۡعٰى قَالَ يٰقَوۡمِ اتَّبِعُوا الۡمُرۡسَلِيۡنَۙ‏ (﻿۲۰﻿)  ",
+    "trans_eng": "Then there came running, from the farthest part of the City, a man, saying, \"O my people! Obey the messengers:",
+    "trans_urdu": "اور شہر کے پرلے کنارے سے ایک آدمی دوڑتا ہوا آیا کہا اے میری قوم رسولوں کی پیروی کرو"
+  },
+  {
+    "ayat_arabic": "اتَّبِعُوۡا مَنۡ لَّا يَسۡــٴَــلُكُمۡ اَجۡرًا وَّهُمۡ مُّهۡتَدُوۡنَ‏ (﻿۲۱﻿)  ",
+    "trans_eng": "\"Obey those who ask no reward of you (for themselves), and who have themselves received Guidance.",
+    "trans_urdu": "ان کی پیروی کرو جو تم سےکوئی اجر نہیں مانگتے اوروہ ہدایت پانے والے ہیں"
+  },
+  {
+    "ayat_arabic": "وَمَا لِىَ لَاۤ اَعۡبُدُ الَّذِىۡ فَطَرَنِىۡ وَاِلَيۡهِ تُرۡجَعُوۡنَ‏ (﻿۲۲﻿)  ",
+    "trans_eng": "\"It would not be reasonable in me if I did not serve Him Who created me, and to Whom ye shall (all) be brought back.",
+    "trans_urdu": "اور میرے لیے کیا ہے کہ میں اس کی عبادت نہ کروں جس نے مجھے پیدا کیا ہے اور اسی کی طرف تم لوٹائے جاؤ گے"
+  },
+  {
+    "ayat_arabic": "ءَاَ تَّخِذُ مِنۡ دُوۡنِهٖۤ اٰلِهَةً اِنۡ يُّرِدۡنِ الرَّحۡمٰنُ بِضُرٍّ لَّا تُغۡنِ عَنِّىۡ  شَفَاعَتُهُمۡ شَيۡـــًٔا وَّلَا يُنۡقِذُوۡنِ‌ۚ‏ (﻿۲۳﻿)  ",
+    "trans_eng": "\"Shall I take (other) gods besides Him? If (Allah) Most Gracious should intend some adversity for me, of no use whatever will be their intercession for me, nor can they deliver me.",
+    "trans_urdu": "کیا میں اس کے سوا اوروں کو معبود بناؤں کہ اگر رحمان مجھے تکلیف دینے کا ارادہ کرے تو ان کی سفارش کچھ بھی میرے کام نہ آئے اور نہ وہ مجھے چھڑا سکیں"
+  },
+  {
+    "ayat_arabic": "اِنِّىۡۤ اِذًا لَّفِىۡ ضَلٰلٍ مُّبِيۡنٍ‏ (﻿۲۴﻿)  ",
+    "trans_eng": "\"I would indeed, if I were to do so, be in manifest Error.",
+    "trans_urdu": "بے شک تب میں صریح گمراہی میں ہوں گا"
+  },
+  {
+    "ayat_arabic": "اِنِّىۡۤ  اٰمَنۡتُ بِرَبِّكُمۡ فَاسۡمَعُوۡنِؕ‏ (﻿۲۵﻿)  ",
+    "trans_eng": "\"For me, I have faith in the Lord of you (all): listen, then, to me!\"",
+    "trans_urdu": "بے شک میں تمہارے رب پر ایمان لایا پس میری بات سنو"
+  },
+  {
+    "ayat_arabic": "قِيۡلَ ادۡخُلِ الۡجَـنَّةَ  ؕ قَالَ يٰلَيۡتَ قَوۡمِىۡ  يَعۡلَمُوۡنَۙ‏ (﻿۲۶﻿)  ",
+    "trans_eng": "It was said: \"Enter thou the Garden.\" He said: \"Ah me! Would that my People knew (what I know)!-",
+    "trans_urdu": "کہا گیا جنت میں داخل ہو جا اس نے کہا اے کاش! میری قوم بھی جان لیتی"
+  },
+  {
+    "ayat_arabic": "بِمَا غَفَرَلِىۡ رَبِّىۡ وَجَعَلَنِىۡ مِنَ الۡمُكۡرَمِيۡنَ‏ (﻿۲۷﻿)  ",
+    "trans_eng": "\"For that my Lord has granted me Forgiveness and has enrolled me among those held in honour!\"",
+    "trans_urdu": "کہ میرے رب نے مجھے بخش دیا اور مجھے عزت والوں میں کر دیا"
+  },
+  {
+    "ayat_arabic": "وَمَاۤ  اَنۡزَلۡنَا عَلٰى قَوۡمِهٖ مِنۡۢ بَعۡدِهٖ مِنۡ جُنۡدٍ مِّنَ السَّمَآءِ وَمَا كُـنَّا مُنۡزِلِيۡنَ‏ (﻿۲۸﻿)  ",
+    "trans_eng": "And We sent not down against his People, after him, any hosts from heaven, nor was it needful for Us so to do.",
+    "trans_urdu": "اور ہم نے اس کی قوم پر اس کے بعد کوئی فوج آسمان سے نہ اتاری اور نہ ہم اتارنے والے تھے"
+  },
+  {
+    "ayat_arabic": "اِنۡ كَانَتۡ اِلَّا صَيۡحَةً وَّاحِدَةً فَاِذَا هُمۡ خٰمِدُوۡنَ‏ (﻿۲۹﻿)  ",
+    "trans_eng": "It was no more than a single mighty Blast, and behold! they were (like ashes) quenched and silent.",
+    "trans_urdu": "صرف ایک ہی چیخ تھی کہ جس سے وہ بجھ کر رہ گئے"
+  },
+  {
+    "ayat_arabic": "يٰحَسۡرَةً عَلَى  الۡعِبَادِ ؔ‌ۚ مَا يَاۡتِيۡهِمۡ مِّنۡ رَّسُوۡلٍ اِلَّا كَانُوۡا بِهٖ يَسۡتَهۡزِءُوۡنَ‏ (﻿۳۰﻿)  ",
+    "trans_eng": "Ah! Alas for (My) Servants! There comes not a messenger to them but they mock him!",
+    "trans_urdu": "کیا افسوس ہے بندوں پر ان کے پاس ایساکوئی بھی رسول نہیں آیا جس سے انہوں نے ہنسی نہ کی ہو"
+  },
+  {
+    "ayat_arabic": "اَلَمۡ يَرَوۡا  كَمۡ اَهۡلَـكۡنَا قَبۡلَهُمۡ مِّنَ الۡقُرُوۡنِ اَنَّهُمۡ اِلَيۡهِمۡ لَا يَرۡجِعُوۡنَؕ‏ (﻿۳۱﻿)  ",
+    "trans_eng": "See they not how many generations before them we destroyed? Not to them will they return:",
+    "trans_urdu": "کیا یہ نہیں دیکھ چکے کہ ہم نے ان سے پہلے کتنی قوموں کو ہلاک کر دیا وہ ان کے پاس لوٹ کر نہیں آئے"
+  },
+  {
+    "ayat_arabic": "وَاِنۡ  كُلٌّ لَّمَّا جَمِيۡعٌ لَّدَيۡنَا مُحۡضَرُوۡنَ‏ (﻿۳۲﻿)  ",
+    "trans_eng": "But each one of them all - will be brought before Us (for judgment).",
+    "trans_urdu": "اور سب کے سب ہمارے پاس حاضر ہیں"
+  },
+  {
+    "ayat_arabic": "وَاٰيَةٌ لَّهُمُ الۡاَرۡضُ الۡمَيۡتَةُ   ۖۚ اَحۡيَيۡنٰهَا وَاَخۡرَجۡنَا مِنۡهَا حَبًّا فَمِنۡهُ يَاۡكُلُوۡنَ‏ (﻿۳۳﻿)  ",
+    "trans_eng": "A Sign for them is the earth that is dead: We do give it life, and produce grain therefrom, of which ye do eat.",
+    "trans_urdu": "اور ان کے لیے خشک زمین بھی ایک نشانی ہے جسے ہم نے زندہ کیا اور اس سے اناج نکالا جس سے وہ کھاتے ہیں"
+  },
+  {
+    "ayat_arabic": "وَجَعَلۡنَا فِيۡهَا جَنّٰتٍ  مِّنۡ نَّخِيۡلٍ وَّاَعۡنَابٍ وَّفَجَّرۡنَا فِيۡهَا مِنَ الۡعُيُوۡنِۙ‏ (﻿۳۴﻿)  ",
+    "trans_eng": "And We produce therein orchard with date-palms and vines, and We cause springs to gush forth therein:",
+    "trans_urdu": "اور اس میں ہم نے کھجوروں اور انگوروں کے باغ بنائے اور ان میں چشمے جاری کیے"
+  },
+  {
+    "ayat_arabic": "لِيَاۡكُلُوۡا مِنۡ ثَمَرِهٖ ۙ وَمَا عَمِلَـتۡهُ اَيۡدِيۡهِمۡ‌ ؕ اَفَلَا يَشۡكُرُوۡنَ‏ (﻿۳۵﻿)  ",
+    "trans_eng": "That they may enjoy the fruits of this (artistry): It was not their hands that made this: will they not then give thanks?",
+    "trans_urdu": "تاکہ وہ اس کے پھل کھائیں اور یہ چیزیں ان کے ہاتھوں کی بنائی ہوئی نہیں ہیں پھر کیوں شکر نہیں کرتے"
+  },
+  {
+    "ayat_arabic": "سُبۡحٰنَ الَّذِىۡ خَلَقَ  الۡاَزۡوَاجَ كُلَّهَا مِمَّا تُنۡۢبِتُ الۡاَرۡضُ وَمِنۡ اَنۡفُسِهِمۡ وَمِمَّا لَا يَعۡلَمُوۡنَ‏ (﻿۳۶﻿)  ",
+    "trans_eng": "Glory to Allah, Who created in pairs all things that the earth produces, as well as their own (human) kind and (other) things of which they have no knowledge.",
+    "trans_urdu": "وہ ذات پاک ہے جس نے زمین سے اگنے والی چیزوں کوگوناگوں بنایا اور خود ان میں سے بھی اور ان چیزوں میں سے بھی جنہیں وہ نہیں جانتے"
+  },
+  {
+    "ayat_arabic": "وَاٰيَةٌ لَّهُمُ الَّيۡلُ  ۖۚ نَسۡلَخُ مِنۡهُ النَّهَارَ فَاِذَا هُمۡ مُّظۡلِمُوۡنَۙ‏ (﻿۳۷﻿)  ",
+    "trans_eng": "And a Sign for them is the Night: We withdraw therefrom the Day, and behold they are plunged in darkness;",
+    "trans_urdu": "اور ان کے لیے رات بھی ایک نشانی ہے کہ ہم اس کے اوپرسے دن کو اتار دیتے ہیں پھر ناگہاں وہ اندھیرے میں رہ جاتے ہیں"
+  },
+  {
+    "ayat_arabic": "وَالشَّمۡسُ تَجۡرِىۡ لِمُسۡتَقَرٍّ لَّهَا  ‌ؕ ذٰلِكَ تَقۡدِيۡرُ الۡعَزِيۡزِ الۡعَلِيۡمِؕ‏ (﻿۳۸﻿)  ",
+    "trans_eng": "And the sun runs his course for a period determined for him: that is the decree of (Him), the Exalted in Might, the All-Knowing.",
+    "trans_urdu": "اور سورج اپنے ٹھکانے کی طرف چلتا رہتا ہے یہ زبردست خبردار کا اندازہ کیا ہوا ہے"
+  },
+  {
+    "ayat_arabic": "وَالۡقَمَرَ  قَدَّرۡنٰهُ مَنَازِلَ حَتّٰى عَادَ كَالۡعُرۡجُوۡنِ الۡقَدِيۡمِ‏ (﻿۳۹﻿)  ",
+    "trans_eng": "And the Moon,- We have measured for her mansions (to traverse) till she returns like the old (and withered) lower part of a date-stalk.",
+    "trans_urdu": "اور ہم نے چاند کی منزلیں مقرر کر دی ہیں یہاں تک کہ پرانی ٹہنی کی طرح ہوجاتا ہے"
+  },
+  {
+    "ayat_arabic": "لَا الشَّمۡسُ يَنۡۢبَغِىۡ  لَهَاۤ  اَنۡ تُدۡرِكَ الۡقَمَرَ وَلَا الَّيۡلُ سَابِقُ النَّهَارِ‌ؕ وَكُلٌّ فِىۡ فَلَكٍ  يَّسۡبَحُوۡنَ‏ (﻿۴۰﻿)  ",
+    "trans_eng": "It is not permitted to the Sun to catch up the Moon, nor can the Night outstrip the Day: Each (just) swims along in (its own) orbit (according to Law).",
+    "trans_urdu": "نہ سورج کی مجال ہے ہ چاند کو جا پکڑے اور نہ رات ہی دن سے پہلے آ سکتی ہے اور ہر ایک ایک آسمان میں تیرتا پھرتا ہے"
+  },
+  {
+    "ayat_arabic": "وَاٰيَةٌ لَّهُمۡ اَنَّا حَمَلۡنَا ذُرِّيَّتَهُمۡ فِى الۡفُلۡكِ الۡمَشۡحُوۡنِۙ‏ (﻿۴۱﻿)  ",
+    "trans_eng": "And a Sign for them is that We bore their race (through the Flood) in the loaded Ark;",
+    "trans_urdu": "اور ان کے لیے یہ بھی نشانی ہے ہم نے ان کی نسل کوبھری کشتی میں سوار کیا"
+  },
+  {
+    "ayat_arabic": "وَخَلَقۡنَا لَهُمۡ مِّنۡ مِّثۡلِهٖ مَا يَرۡكَبُوۡنَ‏ (﻿۴۲﻿)  ",
+    "trans_eng": "And We have created for them similar (vessels) on which they ride.",
+    "trans_urdu": "اور ان کے لیے اسی طرح کی اور بھی چیزیں بنائی ہیں جن پر وہ سوار ہوتے ہیں"
+  },
+  {
+    "ayat_arabic": "وَاِنۡ نَّشَاۡ نُغۡرِقۡهُمۡ فَلَا صَرِيۡخَ  لَهُمۡ وَلَا هُمۡ يُنۡقَذُوۡنَۙ‏ (﻿۴۳﻿)  ",
+    "trans_eng": "If it were Our Will, We could drown them: then would there be no helper (to hear their cry), nor could they be delivered,",
+    "trans_urdu": "اور اگر ہم چاہتے تو انہیں ڈبو دیتے پھر نہ ان کا کوئی فریاد رس ہوتا اور نہ وہ بچائے جاتے"
+  },
+  {
+    "ayat_arabic": "اِلَّا رَحۡمَةً مِّنَّا وَمَتَاعًا اِلٰى حِيۡنٍ‏ (﻿۴۴﻿)  ",
+    "trans_eng": "Except by way of Mercy from Us, and by way of (world) convenience (to serve them) for a time.",
+    "trans_urdu": "مگر یہ ہماری مہربانی ہے اور انہیں ایک مدت تک فائدہ دینا ہے"
+  },
+  {
+    "ayat_arabic": "وَاِذَا  قِيۡلَ لَهُمُ اتَّقُوۡا مَا بَيۡنَ اَيۡدِيۡكُمۡ وَمَا خَلۡفَكُمۡ لَعَلَّكُمۡ تُرۡحَمُوۡنَ‏ (﻿۴۵﻿)  ",
+    "trans_eng": "When they are told, \"Fear ye that which is before you and that which will be after you, in order that ye may receive Mercy,\" (they turn back).",
+    "trans_urdu": "اور جب ان سے کہا جاتا ہے کہ اپنے سامنے اور پیچھے آنے والے عذاب سے ڈرو تاکہ تم پر رحم کیا جائے"
+  },
+  {
+    "ayat_arabic": "وَمَا  تَاۡتِيۡهِمۡ مِّنۡ اٰيَةٍ مِّنۡ اٰيٰتِ رَبِّهِمۡ اِلَّا كَانُوۡا عَنۡهَا مُعۡرِضِيۡنَ‏ (﻿۴۶﻿)  ",
+    "trans_eng": "Not a Sign comes to them from among the Signs of their Lord, but they turn away therefrom.",
+    "trans_urdu": "اوران کے پاس ان کے رب کی نشانیوں میں سے ایسی کوئی بھی نشانی نہیں آتی جس سے وہ منہ موڑ لیتے ہوں"
+  },
+  {
+    "ayat_arabic": "وَاِذَا قِيۡلَ لَهُمۡ اَنۡفِقُوۡا مِمَّا رَزَقَكُمُ اللّٰهُ  ۙ قَالَ الَّذِيۡنَ كَفَرُوۡا لِلَّذِيۡنَ اٰمَنُوۡۤا اَنُطۡعِمُ مَنۡ لَّوۡ يَشَآءُ اللّٰهُ اَطۡعَمَهٗٓ     ۖ   اِنۡ اَنۡـتُمۡ اِلَّا فِىۡ ضَلٰلٍ مُّبِيۡنٍ‏ (﻿۴۷﻿)  ",
+    "trans_eng": "And when they are told, \"Spend ye of (the bounties) with which Allah has provided you,\" the Unbelievers say to those who believe: \"Shall we then feed those whom, if Allah had so willed, He would have fed, (Himself)?- Ye are in nothing but manifest error.\"",
+    "trans_urdu": "اور جب ان سے کہا جاتا ہےکہ الله کے رزق میں سے کچھ خرچ کیا کرو تو کافر ایمانداروں سے کہتے ہیں کیا ہم اسے کھلائیں گےکہ اگر الله چاہتا تو خود اسے کھلا سکتا تھا تم جو ہو تو صاف گمراہی میں پڑے ہوئے ہو"
+  },
+  {
+    "ayat_arabic": "وَيَقُوۡلُوۡنَ مَتٰى هٰذَا الۡوَعۡدُ اِنۡ كُنۡتُمۡ صٰدِقِيۡنَ‏ (﻿۴۸﻿)  ",
+    "trans_eng": "Further, they say, \"When will this promise (come to pass), if what ye say is true?\"",
+    "trans_urdu": "اور کہتے ہیں یہ وعدہ کب ہوگا اگر تم سچے ہو"
+  },
+  {
+    "ayat_arabic": "مَا يَنۡظُرُوۡنَ  اِلَّا صَيۡحَةً وَّاحِدَةً تَاۡخُذُهُمۡ وَهُمۡ يَخِصِّمُوۡنَ‏ (﻿۴۹﻿)  ",
+    "trans_eng": "They will not (have to) wait for aught but a single Blast: it will seize them while they are yet disputing among themselves!",
+    "trans_urdu": "وہ صرف ایک چیخ ہی کا انتظار کر رہے ہیں جو انہیں آ لے گی اور وہ آپس میں جھگڑ رہے ہوں گے"
+  },
+  {
+    "ayat_arabic": "فَلَا يَسۡتَطِيۡعُوۡنَ  تَوۡصِيَةً وَّلَاۤ اِلٰٓى اَهۡلِهِمۡ يَرۡجِعُوۡنَ‏ (﻿۵۰﻿)  ",
+    "trans_eng": "No (chance) will they then have, by will, to dispose (of their affairs), nor to return to their own people!",
+    "trans_urdu": "پس نہ تو وہ وصیت کر سکیں گے اور نہ اپنے گھر والوں کی طرف واپس جا سکیں گے"
+  },
+  {
+    "ayat_arabic": "وَنُفِخَ فِى الصُّوۡرِ فَاِذَا هُمۡ مِّنَ الۡاَجۡدَاثِ اِلٰى رَبِّهِمۡ يَنۡسِلُوۡنَ‏ (﻿۵۱﻿)  ",
+    "trans_eng": "The trumpet shall be sounded, when behold! from the sepulchres (men) will rush forth to their Lord!",
+    "trans_urdu": "اور صور پھونکا جائے گا تو وہ فوراً اپنی قبروں سے نکل کر اپنے رب کی طرف دوڑے چلے آئیں گے"
+  },
+  {
+    "ayat_arabic": "قَالُوۡا يٰوَيۡلَنَا مَنۡۢ بَعَثَنَا  مِنۡ مَّرۡقَدِنَاۘؔ؄هٰذَا مَا وَعَدَ الرَّحۡمٰنُ وَصَدَقَ الۡمُرۡسَلُوۡنَ‏ (﻿۵۲﻿)  ",
+    "trans_eng": "They will say: \"Ah! Woe unto us! Who hath raised us up from our beds of repose?\"... (A voice will say:) \"This is what (Allah) Most Gracious had promised. And true was the word of the messengers!\"",
+    "trans_urdu": "کہیں گے ہائے افسوس کس نے ہمیں ہماری خوابگاہ سے اٹھایا یہی ہے جو رحمان نے وعدہ کیا تھا اور رسولوں نے سچ کہا تھا"
+  },
+  {
+    "ayat_arabic": "اِنۡ كَانَتۡ اِلَّا صَيۡحَةً وَّاحِدَةً فَاِذَا هُمۡ جَمِيۡعٌ لَّدَيۡنَا مُحۡضَرُوۡنَ‏ (﻿۵۳﻿)  ",
+    "trans_eng": "It will be no more than a single Blast, when lo! they will all be brought up before Us!",
+    "trans_urdu": "وہ تو صرف ایک ہی زور کی آواز ہو گی پھر وہ سب ہمارے سامنے حاضر کیے جائیں گے"
+  },
+  {
+    "ayat_arabic": "فَالۡيَوۡمَ لَا تُظۡلَمُ نَفۡسٌ شَيۡـــًٔا وَّلَا تُجۡزَوۡنَ اِلَّا مَا كُنۡتُمۡ تَعۡمَلُوۡنَ‏ (﻿۵۴﻿)  ",
+    "trans_eng": "Then, on that Day, not a soul will be wronged in the least, and ye shall but be repaid the meeds of your past Deeds.",
+    "trans_urdu": "پھر اس دن کسی پرکچھ بھی ظلم نہ کیا جائے گا اورتم اسی کا بدلہ پاؤ گے جو کیا کرتے تھے"
+  },
+  {
+    "ayat_arabic": "اِنَّ  اَصۡحٰبَ الۡجَـنَّةِ الۡيَوۡمَ فِىۡ شُغُلٍ فٰكِهُوۡنَ‌ۚ‏ (﻿۵۵﻿)  ",
+    "trans_eng": "Verily the Companions of the Garden shall that Day have joy in all that they do;",
+    "trans_urdu": "بے شک بہشتی اس دن مزہ سے دل بہلا رہے ہوں گے"
+  },
+  {
+    "ayat_arabic": "هُمۡ وَاَزۡوَاجُهُمۡ فِىۡ ظِلٰلٍ  عَلَى الۡاَرَآٮِٕكِ مُتَّكِـــُٔوۡنَ‏ (﻿۵۶﻿)  ",
+    "trans_eng": "They and their associates will be in groves of (cool) shade, reclining on Thrones (of dignity);",
+    "trans_urdu": "وہ اوران کی بیویاں سایوں میں تختوں پر تکیہ لگائے ہوئے بیٹھے ہوں گے"
+  },
+  {
+    "ayat_arabic": "لَهُمۡ فِيۡهَا فَاكِهَةٌ وَّلَهُمۡ مَّا يَدَّعُوۡنَ‌ ۖ‌ۚ‏ (﻿۵۷﻿)  ",
+    "trans_eng": "(Every) fruit (enjoyment) will be there for them; they shall have whatever they call for;",
+    "trans_urdu": "ان کے لیے وہاں میوہ ہوگا اور انہیں ملے گا جو وہ مانگیں گے"
+  },
+  {
+    "ayat_arabic": "سَلٰمٌ قَوۡلًا مِّنۡ رَّبٍّ رَّحِيۡمٍ‏ (﻿۵۸﻿)  ",
+    "trans_eng": "\"Peace!\" - a word (of salutation) from a Lord Most Merciful!",
+    "trans_urdu": "پروردگار نہایت رحم والے کی طرف سے انہیں سلام فرمایا جاوے گا"
+  },
+  {
+    "ayat_arabic": "وَامۡتَازُوا الۡيَوۡمَ اَيُّهَا الۡمُجۡرِمُوۡنَ‏ (﻿۵۹﻿)  ",
+    "trans_eng": "\"And O ye in sin! Get ye apart this Day!",
+    "trans_urdu": "اے مجرمو! آج الگ ہو جاؤ"
+  },
+  {
+    "ayat_arabic": "اَلَمۡ اَعۡهَدۡ اِلَيۡكُمۡ يٰبَنِىۡۤ اٰدَمَ اَنۡ لَّا تَعۡبُدُوا الشَّيۡطٰنَ‌‌ۚ اِنَّهٗ لَـكُمۡ عَدُوٌّ مُّبِيۡنٌ ۙ‏ (﻿۶۰﻿)  ",
+    "trans_eng": "\"Did I not enjoin on you, O ye Children of Adam, that ye should not worship Satan; for that he was to you an enemy avowed?-",
+    "trans_urdu": "اے آدم کی اولاد! کیا میں نے تمہیں تاکید نہ کر دی تھی کہ شیطان کی عبادت نہ کرنا کیونکہ وہ تمہارا صریح دشمن ہے"
+  },
+  {
+    "ayat_arabic": "وَّاَنِ اعۡبُدُوۡنِىۡ  ؔ‌ؕ هٰذَا صِرَاطٌ مُّسۡتَقِيۡمٌ‏ (﻿۶۱﻿)  ",
+    "trans_eng": "\"And that ye should worship Me, (for that) this was the Straight Way?",
+    "trans_urdu": "اور یہ کہ میری ہی عبادت کرنا یہ سیدھا راستہ ہے"
+  },
+  {
+    "ayat_arabic": "وَلَقَدۡ اَضَلَّ مِنۡكُمۡ جِبِلًّا كَثِيۡرًا‌  ؕ اَفَلَمۡ تَكُوۡنُوۡا تَعۡقِلُوۡنَ‏ (﻿۶۲﻿)  ",
+    "trans_eng": "\"But he did lead astray a great multitude of you. Did ye not, then, understand?",
+    "trans_urdu": "اور البتہ اس نے تم میں سے بہت لوگوں کو گمراہ کیا تھا کیا پس تم نہیں سمجھتے تھے"
+  },
+  {
+    "ayat_arabic": "هٰذِهٖ جَهَنَّمُ الَّتِىۡ  كُنۡتُمۡ تُوۡعَدُوۡنَ‏ (﻿۶۳﻿)  ",
+    "trans_eng": "\"This is the Hell of which ye were (repeatedly) warned!",
+    "trans_urdu": "یہی دوزخ ہے جس کا تم سے وعدہ کیا جاتا تھا"
+  },
+  {
+    "ayat_arabic": "اِصۡلَوۡهَا الۡيَوۡمَ بِمَا كُنۡتُمۡ تَكۡفُرُوۡنَ‏ (﻿۶۴﻿)  ",
+    "trans_eng": "\"Embrace ye the (fire) this Day, for that ye (persistently) rejected (Truth).\"",
+    "trans_urdu": "آج اس میں داخل ہو جاؤ اس کے بدلے جوتم کفر کیا کرتے تھے"
+  },
+  {
+    "ayat_arabic": "اَلۡيَوۡمَ  نَخۡتِمُ عَلٰٓى اَفۡوَاهِهِمۡ وَتُكَلِّمُنَاۤ اَيۡدِيۡهِمۡ وَتَشۡهَدُ اَرۡجُلُهُمۡ بِمَا كَانُوۡا  يَكۡسِبُوۡنَ‏ (﻿۶۵﻿)  ",
+    "trans_eng": "That Day shall We set a seal on their mouths. But their hands will speak to us, and their feet bear witness, to all that they did.",
+    "trans_urdu": "آج ہم ان کے مونہوں پر مہر لگا دیں گے اور ہمارے ساتھ ان کے ہاتھ بولیں گے اور ان کے پاؤں شہادت دیں گے اس پر جو وہ کیا کرتے تھے"
+  },
+  {
+    "ayat_arabic": "وَلَوۡ نَشَآءُ لَـطَمَسۡنَا عَلٰٓى اَعۡيُنِهِمۡ فَاسۡتَبَقُوا الصِّرَاطَ فَاَنّٰى يُبۡصِرُوۡنَ‏ (﻿۶۶﻿)  ",
+    "trans_eng": "If it had been our Will, We could surely have blotted out their eyes; then should they have run about groping for the Path, but how could they have seen?",
+    "trans_urdu": "اور اگر ہم چاہیں تو ان کی آنکھیں مٹاڈالیں پس وہ راستہ کی طرف دوڑیں پھر وہ کیوں کر دیکھ سکیں"
+  },
+  {
+    "ayat_arabic": "وَلَوۡ نَشَآءُ لَمَسَخۡنٰهُمۡ عَلٰى مَكَانَتِهِمۡ فَمَا اسۡتَطَاعُوۡا  مُضِيًّا وَّلَا يَرۡجِعُوۡنَ‏ (﻿۶۷﻿)  ",
+    "trans_eng": "And if it had been Our Will, We could have transformed them (to remain) in their places; then should they have been unable to move about, nor could they have returned (after error).",
+    "trans_urdu": "اور اگر ہم چاہیں تو ان کی صورتیں ان جگہوں پر مسخ کر دیں پس نہ وہ آگے چل سکیں او ر نہ ہی واپس لوٹ سکیں"
+  },
+  {
+    "ayat_arabic": "وَمَنۡ نُّعَمِّرۡهُ نُـنَكِّسۡهُ فِى الۡخَـلۡقِ‌ؕ اَفَلَا يَعۡقِلُوۡنَ‏ (﻿۶۸﻿)  ",
+    "trans_eng": "If We grant long life to any, We cause him to be reversed in nature: Will they not then understand?",
+    "trans_urdu": "اور ہم جس کی عمر زیادہ کرتے ہیں بناوٹ میں اسے الٹا گھٹاتے چلے جاتے ہیں کیا یہ لوگ نہیں سمجھتے"
+  },
+  {
+    "ayat_arabic": "وَمَا عَلَّمۡنٰهُ الشِّعۡرَ وَمَا يَنۡۢبَغِىۡ لَهٗؕ اِنۡ هُوَ اِلَّا ذِكۡرٌ وَّقُرۡاٰنٌ  مُّبِيۡنٌۙ‏ (﻿۶۹﻿)  ",
+    "trans_eng": "We have not instructed the (Prophet) in Poetry, nor is it meet for him: this is no less than a Message and a Qur'an making things clear:",
+    "trans_urdu": "اور ہم نے نبی کو شعر نہیں سکھایا اور نہ یہ اس کے مناسب ہی تھا یہ تو صرف نصیحت اور واضح قرآن ہے"
+  },
+  {
+    "ayat_arabic": "لِّيُنۡذِرَ مَنۡ كَانَ حَيًّا وَّيَحِقَّ الۡقَوۡلُ عَلَى الۡكٰفِرِيۡنَ‏ (﻿۷۰﻿)  ",
+    "trans_eng": "That it may give admonition to any (who are) alive, and that the charge may be proved against those who reject (Truth).",
+    "trans_urdu": "تاکہ جو زندہ ہے اسے ڈرائے اور کافروں پر الزام ثابت ہو جائے"
+  },
+  {
+    "ayat_arabic": "اَوَلَمۡ يَرَوۡا اَنَّا خَلَقۡنَا لَهُمۡ مِّمَّا عَمِلَتۡ اَيۡدِيۡنَاۤ  اَنۡعَامًا فَهُمۡ لَهَا مٰلِكُوۡنَ‏ (﻿۷۱﻿)  ",
+    "trans_eng": "See they not that it is We Who have created for them - among the things which Our hands have fashioned - cattle, which are under their dominion?-",
+    "trans_urdu": "کیا انہوں نے نہیں دیکھا کہ ہم نے ان کے لیے اپنے ہاتھوں سے چار پائے بنائے جن کے وہ مالک ہیں"
+  },
+  {
+    "ayat_arabic": "وَذَلَّـلۡنٰهَا لَهُمۡ فَمِنۡهَا رَكُوۡبُهُمۡ وَمِنۡهَا يَاۡكُلُوۡنَ‏ (﻿۷۲﻿)  ",
+    "trans_eng": "And that We have subjected them to their (use)? of them some do carry them and some they eat:",
+    "trans_urdu": "اور انہیں ان کے بس میں کر دیا ہے پھر ان میں سے کسی پر چڑھتے ہیں اور کسی کو کھاتے ہیں"
+  },
+  {
+    "ayat_arabic": "وَلَهُمۡ فِيۡهَا مَنَافِعُ  وَمَشَارِبُ‌ؕ اَفَلَا يَشۡكُرُوۡنَ‏ (﻿۷۳﻿)  ",
+    "trans_eng": "And they have (other) profits from them (besides), and they get (milk) to drink. Will they not then be grateful?",
+    "trans_urdu": "اور ان کے لیے ان میں اور بہت سے فائدے اور پینے کی چیزیں ہیں پھر کیوں شکر نہیں کرتے"
+  },
+  {
+    "ayat_arabic": "وَاتَّخَذُوۡا مِنۡ دُوۡنِ اللّٰهِ اٰلِهَةً لَّعَلَّهُمۡ  يُنۡصَرُوۡنَؕ‏ (﻿۷۴﻿)  ",
+    "trans_eng": "Yet they take (for worship) gods other than Allah, (hoping) that they might be helped!",
+    "trans_urdu": "اور الله کے سوا انہوں نے اور معبود بنا رکھے ہیں تاکہ وہ ان کی مدد کریں"
+  },
+  {
+    "ayat_arabic": "لَا يَسۡتَطِيۡعُوۡنَ نَصۡرَهُمۡۙ وَهُمۡ لَهُمۡ جُنۡدٌ مُّحۡضَرُوۡنَ‏ (﻿۷۵﻿)  ",
+    "trans_eng": "They have not the power to help them: but they will be brought up (before Our Judgment-seat) as a troop (to be condemned).",
+    "trans_urdu": "وہ ان کی مدد نہیں کر سکیں گے اور وہ ان کے حق میں ایک فریق (مخالف) ہوں گے جو حاضر کیے جائیں گے"
+  },
+  {
+    "ayat_arabic": "فَلَا  يَحۡزُنۡكَ قَوۡلُهُمۡ‌ۘ اِنَّا نَـعۡلَمُ مَا يُسِرُّوۡنَ وَمَا يُعۡلِنُوۡنَ‏ (﻿۷۶﻿)  ",
+    "trans_eng": "Let not their speech, then, grieve thee. Verily We know what they hide as well as what they disclose.",
+    "trans_urdu": "پھر آپ ان کی بات سے غمزدہ نہ ہوں بے شک ہم جانتے ہیں جو وہ چھپاتے ہیں اور جو ظاہر کرتے ہیں"
+  },
+  {
+    "ayat_arabic": "اَوَلَمۡ يَرَ الۡاِنۡسَانُ  اَنَّا خَلَقۡنٰهُ مِنۡ نُّطۡفَةٍ فَاِذَا هُوَ خَصِيۡمٌ مُّبِيۡنٌ‏ (﻿۷۷﻿)  ",
+    "trans_eng": "Doth not man see that it is We Who created him from sperm? yet behold! he (stands forth) as an open adversary!",
+    "trans_urdu": "کیا آدمی نہیں جانتاکہ ہم نے اسے منی کے ایک قطرے سے بنایا ہے پھر وہ کھلم کھلا دشمن بن کر جھگڑنے لگا"
+  },
+  {
+    "ayat_arabic": "وَضَرَبَ لَـنَا مَثَلًا وَّ نَسِىَ خَلۡقَهٗ‌ ؕ قَالَ مَنۡ يُّحۡىِ الۡعِظَامَ وَهِىَ رَمِيۡمٌ‏ (﻿۷۸﻿)  ",
+    "trans_eng": "And he makes comparisons for Us, and forgets his own (origin and) Creation: He says, \"Who can give life to (dry) bones and decomposed ones (at that)?\"",
+    "trans_urdu": "اور ہماری نسبت باتیں بنانے لگا اور اپنا پیدا ہونا بھول گیا کہنے لگا بوسیدہ ہڈیوں کو کون زندہ کر سکتا ہے"
+  },
+  {
+    "ayat_arabic": "قُلۡ يُحۡيِيۡهَا الَّذِىۡۤ اَنۡشَاَهَاۤ اَوَّلَ مَرَّةٍ‌ ؕ وَهُوَ بِكُلِّ خَلۡقٍ عَلِيۡمُ ۙ‏ (﻿۷۹﻿)  ",
+    "trans_eng": "Say, \"He will give them life Who created them for the first time! for He is Well-versed in every kind of creation!-",
+    "trans_urdu": "کہہ دوانہیں وہی زندہ کرے گا جس نے انہیں پہلی بار پیدا کیا تھا اور وہ سب کچھ بنانا جانتا ہے"
+  },
+  {
+    "ayat_arabic": "اۨلَّذِىۡ جَعَلَ لَـكُمۡ مِّنَ  الشَّجَرِ الۡاَخۡضَرِ نَارًا فَاِذَاۤ اَنۡـتُمۡ مِّنۡهُ تُوۡقِدُوۡنَ‏ (﻿۸۰﻿)  ",
+    "trans_eng": "\"The same Who produces for you fire out of the green tree, when behold! ye kindle therewith (your own fires)!",
+    "trans_urdu": "وہ جس نے تمہارے لیے سبز درخت سے آگ پیدا کر دی کہ تم جھٹ پٹ اس سے آگ سلگا لیتے ہو"
+  },
+  {
+    "ayat_arabic": "اَوَلَيۡسَ الَّذِىۡ خَلَقَ السَّمٰوٰتِ وَالۡاَرۡضَ بِقٰدِرٍ عَلٰٓى اَنۡ يَّخۡلُقَ مِثۡلَهُمۡؔؕ بَلٰی وَهُوَ الۡخَـلّٰقُ الۡعَلِيۡمُ‏ (﻿۸۱﻿)  ",
+    "trans_eng": "\"Is not He Who created the heavens and the earth able to create the like thereof?\" - Yea, indeed! for He is the Creator Supreme, of skill and knowledge (infinite)!",
+    "trans_urdu": "کیا وہ جس نے آسمانوں اور زمین کو بنا دیا اس پر قاد رنہیں کہ ان جیسے اور بنائے کیوں نہیں وہ بہت کچھ بنانے ولا ماہر ہے"
+  },
+  {
+    "ayat_arabic": "اِنَّمَاۤ اَمۡرُهٗۤ اِذَاۤ اَرَادَ شَیْــٴً۬ــا اَنۡ يَّقُوۡلَ لَهٗ كُنۡ فَيَكُوۡنُ‏ (﻿۸۲﻿)  ",
+    "trans_eng": "Verily, when He intends a thing, His Command is, \"be\", and it is!",
+    "trans_urdu": "اس کی تو یہ شان ہے کہ جب وہ کسی چیز کا ارادہ کرتا ہے تو اتنا ہی فرما دیتا ہے کہ ہو سو وہ ہو جاتی ہے"
+  },
+  {
+    "ayat_arabic": "فَسُبۡحٰنَ الَّذِىۡ بِيَدِهٖ مَلَـكُوۡتُ كُلِّ شَىۡءٍ وَّاِلَيۡهِ تُرۡجَعُوۡنَ‏ (﻿۸۳﻿)  ",
+    "trans_eng": "So glory to Him in Whose hands is the dominion of all things: and to Him will ye be all brought back.",
+    "trans_urdu": "پس وہ ذات پاک ہے جس کے ہاتھ میں ہر چیز کا کامل اختیار ہے اور اسی کی طرف تم لوٹائے جاؤ گے"
+  }
+]

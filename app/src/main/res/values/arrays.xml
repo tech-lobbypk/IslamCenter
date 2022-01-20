@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Urdu</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Quran</item>
+        <item>Praising Allah</item>
+        <item>Darood-O-Salam</item>
+        <item>Repentance</item>
+        <item>Prayers</item>
+        <item>Morning Azkar</item>
+        <item>Evening Azkar</item>
+
+    </string-array>
+</resources>

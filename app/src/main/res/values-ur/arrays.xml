@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+            <item>English</item>
+            <item>اردو</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>قرآن</item>
+        <item>تسبیح</item>
+        <item>درود و سلام</item>
+        <item>استغفار</item>
+        <item>دعائیں</item>
+        <item>صبح کے اذ کا ر</item>
+        <item>شا م کے اذ کا ر</item>
+
+    </string-array>
+
+
+</resources>
+

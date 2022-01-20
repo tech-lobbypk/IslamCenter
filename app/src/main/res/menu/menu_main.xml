@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/language"
+        android:orderInCategory="100"
+        android:icon="@drawable/language"
+        android:title="@string/change_language"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/reminders"
+        android:orderInCategory="90"
+        android:title="@string/reminders"
+        android:icon="@drawable/notification"
+        app:showAsAction="always"
+
+
+        />
+</menu>
